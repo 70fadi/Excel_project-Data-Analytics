@@ -10,7 +10,7 @@ My project demonstrating my Excel skills
 This data salary dashbaord was created to assist people who are looking for a job to investigate salaries for their desired jobs and ensure they are getting paid what the market offers. 
 
 ### Dashboard File 
-My final dashboard is in [project_1](1_My_salary_dashboard)
+My final dashboard is in [project_1](Project_1)
 
 ### Excel Skills Used
 
